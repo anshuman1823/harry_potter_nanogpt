@@ -1,1 +1,3 @@
 I’ve created a toy GPT model based on the NanoGPT repository by Andrej Karpathy. Although it’s a very small model compared to the modern LLMs, it’s fundamental architecture is very similar to them. I trained it on a collection of Harry Potter novels for just 10 minutes using GPUs on Kaggle Notebooks. The front-end was built with Gradio, and I’ve hosted the model on HuggingFace Spaces. You can try it out yourself by visiting this link: https://huggingface.co/spaces/spectrebrain/harry_potter_llm. It offers a hands-on way to explore how different temperature values and prompt variations influence text generation in transformer based large language models.
+
+<img width="1261" alt="image" src="https://github.com/user-attachments/assets/1c436892-9f5f-4394-afd0-393bae935a43" />
